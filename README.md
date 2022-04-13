@@ -10,4 +10,3 @@ Naam: Boyens Thomas
 - Ik heb 3D audio ingeschakeld maar ik kan niet testen of de rolloff curve een verandering heeft gemaakt in het volume van het geluid op basis van afstand omdat ik geen VR bril heb. Alle andere taken kon ik wel testen met gebruik van de VR simulator.
 
 
-#### Bonus tasks
